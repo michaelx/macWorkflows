@@ -3,4 +3,4 @@
 # ------------------------------------------------------------------------- #
 # Start Time Machine Backup
 # ------------------------------------------------------------------------- #
-/System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper
+/usr/bin/tmutil startbackup
